@@ -1,4 +1,7 @@
 # Snakes-And-Ladders-Blutooth-Game
+
+![](https://lh3.ggpht.com/j8EDF8LIXUvGBqbFIo9CSQ0Fa8WAnrHgdVsEERNVyFl922Zbm38WjX4GHigBAvl4MQ=w1280-h617-rw)
+
 This is the typical Snakes and Ladders game developed in Android for multiplayer mode using Bluetooth.
 This app was created in 2014 and converted to Android studio project in 2018.
 The technologies and methods are very old and please feel free to contribute to make this game in better way.
