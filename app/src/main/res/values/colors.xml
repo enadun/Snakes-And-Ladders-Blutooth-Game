@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Splash Activity -->
+    <color name="splash_background">#000</color>
+
+    <!-- Menu Activity -->
+    <color name="button_text">#fff</color>
+    <color name="menu_background">#000</color>
+
+    <!-- Game Activity -->
+    <color name="game_dash_board_background">#086148</color>
+    <color name="game_dash_board_player_text">#fff</color>
+    <color name="game_background">#000</color>
+    <color name="game_title_text">#FFF</color>
+    <color name="blue_piese">#08F</color>
+    <color name="red_piese">#F00</color>
+
+</resources>
